@@ -3,7 +3,7 @@
 In this project, I have implemented YOLO and its variants namely YOLOv2 and YOLOv3 and performed their comparative analysis.
 The comparision was on the basis of results achieved by running the models on COCO and PASCAL VOC 2007 dataset
 
-References
+#References
 
 The ideas presented in this repo came primarily from the two YOLO papers. The implementation here also took significant inspiration and used many components from Allan Zelener's github repository. The pretrained weights used in this project came from the official YOLO website.
 
